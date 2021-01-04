@@ -1,5 +1,6 @@
+***for full documentation see [wiki](https://github.com/sourabhkhemka/DocumentScanner/wiki)***
 # DocumentScanner: RScan
-DocumentScanner or RScan (as a like to call it) is an OpenCV based project to scan documents in various modes. This repository contains source code to scan documents just like state-of-the-art mobile apps like Microsoft Lens or Adobe Scan.
+DocumentScanner or RScan (as I like to call it) is an OpenCV based project to scan documents in various modes. This repository contains source code to scan documents just like state-of-the-art mobile apps like Microsoft Lens or Adobe Scan.
 
 ## Repository's directory structure
 The same algorithm to scan documents is available in both Python & Java.

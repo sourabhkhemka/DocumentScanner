@@ -27,7 +27,7 @@ Java code is supposed to make RScan ready for Andriod Development.
 RScan requires two or three parameters to be provided manually in order to scan the documents. These parameter selections need to be automated to give a completeness to the project. Once done, an API to scan documents can be coded.
 
 ## Example outputs:
-[[https://github.com/sourabhkhemka/DocumentScanner/blob/main/wiki_images/rsca_label.jpeg]]
+![example](https://github.com/sourabhkhemka/DocumentScanner/blob/main/wiki_images/rsca_label.jpeg)
 
 ## About author:
 * [LinkedIn profile](https://www.linkedin.com/in/sourabh-khemka-b6894513a/)

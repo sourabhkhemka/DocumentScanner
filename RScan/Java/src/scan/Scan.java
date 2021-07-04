@@ -62,7 +62,9 @@ public class Scan {
         kernel.setTo(new Scalar(1,1,1));
         
         Core.multiply(kernel, new Scalar(127.0, 127.0, 127.0), kernel);
-
+        
+        Imgproc.cvtColor(filtered,filtered,Imgproc.COLOR_RGBA2RGB);
+        
         Core.add(filtered, kernel, filtered);
 
         filtered.convertTo(filtered, CvType.CV_8UC3);
